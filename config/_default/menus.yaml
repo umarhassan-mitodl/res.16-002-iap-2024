@@ -1,0 +1,62 @@
+leftnav:
+- identifier: 16babc5f-0e62-460a-b4ba-9a58691cc546
+  name: How to CAD Almost Anything with SolidWorks
+  pageRef: /external-resources/how-to-cad-almost-anything_16babc5f-0e62-460a-b4ba-9a58691cc546
+  weight: 10
+- identifier: bb8eabca-d50c-4e54-8c25-b97eea4b6d80
+  name: SolidWorks Session Recordings
+  pageRef: /external-resources/session-recordings_bb8eabca-d50c-4e54-8c25-b97eea4b6d80
+  weight: 20
+- identifier: d10bb908-13c8-4ddb-9bee-fa8f98e6225e
+  name: How to CAD Almost Anything with Fusion 360
+  pageRef: /external-resources/how-to-cad-almost-anything-with-fusion-360
+  weight: 30
+- identifier: b4a6a168-fba3-48e8-bb28-05eb9e011a8b
+  name: Fusion 360 Session Recordings
+  pageRef: /external-resources/fusion-360-session-recordings
+  weight: 40
+- identifier: 26cd69cf-0058-4f1f-b146-d59f125d7507
+  name: How to CAD Almost Anything with Onshape
+  pageRef: /external-resources/how-to-cad-almost-anything-with-onshape
+  weight: 50
+- identifier: de9839c7-413a-4fc7-9fe0-1b4ad9692ae2
+  name: Onshape Session Recordings
+  pageRef: /external-resources/onshapen-session-recordings
+  weight: 60
+- identifier: 758fc0d1-c41c-4289-9985-c6b83e34d067
+  name: How to CAD Almost Anything with Siemens NX
+  pageRef: /external-resources/how-to-cad-almost-anything-with-siemens-nx
+  weight: 70
+- identifier: 9d0754c5-7bd5-43f8-a211-5d359ef51c92
+  name: Siemens NX Session Recordings
+  pageRef: /external-resources/siemens-nx-session-recordings
+  weight: 80
+- identifier: de756574-41ec-47df-a48a-472ad3a90caa
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 90
+- identifier: ecd0b98a-22a2-4d82-9b6b-4e9e5cd54a1e
+  name: Students' Reasons for Enrolling in the Workshop
+  pageRef: /pages/students-reasons-for-enrolling-in-the-workshop
+  parent: de756574-41ec-47df-a48a-472ad3a90caa
+  weight: 10
+- identifier: 8e18429d-6cdd-41dd-afa5-7e9f9be6468a
+  name: Reverse Engineering as a Design Technique
+  pageRef: /pages/reverse-engineering-as-a-design-technique
+  parent: de756574-41ec-47df-a48a-472ad3a90caa
+  weight: 20
+- identifier: 3a4ed173-f3ec-461a-87f5-f618cb0e0ebb
+  name: Learning to Use CAD Software
+  pageRef: /pages/learning-to-use-cad-software
+  parent: de756574-41ec-47df-a48a-472ad3a90caa
+  weight: 30
+- identifier: c708d139-d0bd-49b8-a0f7-eb1a284f3241
+  name: Free Alternatives to Proprietary Software
+  pageRef: /pages/free-alternatives-to-proprietary-cad-software
+  parent: de756574-41ec-47df-a48a-472ad3a90caa
+  weight: 40
+- identifier: 45224602-4737-41bf-97b8-10265c0145d4
+  name: Parting Thoughts
+  pageRef: /pages/parting-thoughts
+  parent: de756574-41ec-47df-a48a-472ad3a90caa
+  weight: 50
