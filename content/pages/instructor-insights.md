@@ -8,7 +8,7 @@ uid: de756574-41ec-47df-a48a-472ad3a90caa
 ---
 ## Instructor Interview
 
-In the pages linked below, Andy G. Eskenazi explains how and why he developed the CAD workshop he taught in the [Independent Activities Period](https://elo.mit.edu/iap/) of 2024.
+In the pages linked below, Andy G. Eskenazi explains how and why he developed the CAD workshop he taught in the {{% resource_link "222452f3-a541-4929-ae3f-5121b4a45357" "Independent Activities Period" %}} of 2024.
 
 {{% resource_link "ecd0b98a-22a2-4d82-9b6b-4e9e5cd54a1e" "Students' Reasons for Enrolling in the Workshop" %}}
 
